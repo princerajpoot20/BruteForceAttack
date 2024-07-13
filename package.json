@@ -1,0 +1,14 @@
+{
+  "name": "bruteforceattack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\tbruteforce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "princerajpoot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
